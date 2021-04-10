@@ -73,3 +73,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # Spotify-Project
 Spotify UI designed to fetch data and retrieve search results from a JSON file
+
+#Functionality
+The homepage functions well with all the albums having their specified properties (such as cover image, name and album) while also having the overlay with the animation for each of the albums. However, there are some bugs in the UI.
+Firstly, the search bar needs to be clicked to go to the search page and it has to be clicked again to enter the search bar. To enter the search bar, you need to click the search bar a little above or below the search bar. The layout in the search page is also a little flawed due to some positioning mistakes. 
+The search and retrieve works perfectly and all the songs in the JSON file can be retrieved by typing the name in the search bar.
+P.S
+One of the cover art URL is unavailable so it doesn't show in the search page. In the main page, that same image was used but I changed it to another URL so the cover art is visible.
